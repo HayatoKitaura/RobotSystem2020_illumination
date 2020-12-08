@@ -37,7 +37,7 @@ sudo chmod 666 /dev/illumination_led0
 
 次のコマンドで実行
 ```
-echo > 1 /dev/illumination_led0
+echo 1 > /dev/illumination_led0
 ```
 
 ## デモ動画
